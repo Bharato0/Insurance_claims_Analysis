@@ -1,13 +1,13 @@
 # Insurance_claims_Analysis
-Insurance_claims_Analysis - PowerBI
+#### Insurance_claims_Analysis - PowerBI
 
-Problem Statement - An Insurance company wants to visualize the financial performance of
+### Problem Statement - An Insurance company wants to visualize the financial performance of
 claims made against the policies. The data given contains the information
 about claims processed in the month of January and February. The aim is to
 plot visualisations which will provide a quick overview of claims data to the
 leadership.
 
-Dataset Information:
+### Dataset Information:
 
 The data consists of 1000 individual claims. The most important variable of
 interest is fraud_reported. This variable is labelled 1 if a certain claim is
@@ -17,7 +17,7 @@ the descriptive attributes into four main categories: the insured person, the
 policy of that person, description of the incident and characteristics of the car
 which is involved in the incident.
 
-Performing the following tasks using PowerBI with the
+#### Performing the following tasks using PowerBI with the
 goal to visualise:
 
 1. Various factors like number of claims processed and the
